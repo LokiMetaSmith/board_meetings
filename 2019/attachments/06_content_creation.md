@@ -9,7 +9,7 @@
 * Content Marketing
 * OKC A/V Hardware
 * OKC A/V Volunteer Management
-* Project 3810 Streaming
+* Project 3810 Streaming - Audio capture noise prevented streaming to go live. Looking at better audio in options. 
 * Simulcasting - Kimberly is looking for education institutions or public libraries where we can simulcast. Need more volunteers for this.
 * TBS Streaming
 * Tulsa Stream Team
