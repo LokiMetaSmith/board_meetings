@@ -12,6 +12,8 @@
 * OKC A/V Hardware
 * OKC A/V Volunteer Management
 * Project 3810 Streaming
+  * Lawrence aquired additional parts to make the mobile stream kit more functional. 
+  * The mic noise issue is being actively worked on.
 * Simulcasting
   * Kimberly is looking for education institutions or public libraries where we can simulcast.
   * Need more volunteers for this.
